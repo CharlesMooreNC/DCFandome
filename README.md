@@ -38,7 +38,7 @@ With a header displaying title, and a logo floating above that will work as a "r
             
 #### MVP
 
-- Logo refreshed all data allowing user to be able .
+- Logo allowing users to refresh forms and start anew.
 - Receive and export Compare Container.
 - Compare Container allowing users to post their findings/ideal member.
 
